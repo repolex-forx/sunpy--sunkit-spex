@@ -1,0 +1,11 @@
+{
+  "org": "sunpy",
+  "repo": "sunkit-spex",
+  "versions": [
+    {
+      "commit": "92782fb80dffa7c217663e037bc55976aba12f07",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:54:50.307024+00:00"
+    }
+  ]
+}
